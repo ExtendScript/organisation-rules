@@ -27,3 +27,15 @@ There are lots of repos on GitHub that are called "indesign scripts" or "after e
 
 The awesome list should be really about awesome projects. Not just to promote something that is just mediocre. You are the judge to that.  
 
+## Wiki  
+
+There is this [Wiki](https://github.com/ExtendScript/wiki/wiki) where lots of examples can be found. The aim of the articles should be to show the usage of features. This means:  
+
+- Don't add to much eye candy it will only distract the reader  
+- Try to write comments (for every line) or explain your article step by step  
+- Use Markdown  
+- use [Pygments](https://github.com/gollum/gollum/wiki#syntax-highlighted-code-blocks) code highlighting (` ```js NEWLINE some code NEWLINE``` `)  
+- Add your article to the "_Sidebar.md" file  
+- Sort the articles by application and alphabetically in the _Sidebar
+- Read a bit about the wiki system called [Gollum](https://github.com/gollum/gollum/wiki)
+
