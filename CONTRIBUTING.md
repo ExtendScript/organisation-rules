@@ -18,7 +18,12 @@ Make sure you tested your changes and describe thoroughly what you changed.
 
 ## Versioning
 
-Use use semantic versioning (semver) as described by [npm](https://docs.npmjs.com/getting-started/semantic-versioning)
+Use use semantic versioning (semver) as described by [npm](https://docs.npmjs.com/getting-started/semantic-versioning).
 
+In summary, the **first release** is always v1.0.0 and the next update depends on what has changed:
+
+  * **Patch Release** (1.0.1) For bug fixes and other minor changes increment the third digit
+  * **Minor Release** (1.1.0) For new features that don't break existing features increment the middle digit
+  * **Major Release** (2.0.0) For new features that break backward compatibility increment the first digit 
 
 Thanks!
