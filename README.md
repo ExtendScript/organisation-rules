@@ -11,21 +11,17 @@ Everybody can become an owner. Being an owner means to contribute actively to th
 If you just want to sit back, relax and watch the chaos you should be a member. It is great to have lots of members. Having a large org will give us more input even if you just contribute with a simple +1 on some random comment on an issue or you tell your mom - it was worth it. To apply to the Org you can write an e-mail to <hello@extendscript.org> or you can use the public [Gitter](https://gitter.im/ExtendScript/agora).  
 
 
-## Forking and Transferring Projects  
+## Transferring Projects  
 
-If you have a ExtendScript project you want to transfer to the Org or you found a nice tool somebody wrote and you want to fork it, you are very welcome. These projects should meet a minimal standard:  
+If you have a ExtendScript project you want to transfer to the Org you are very welcome. The project should meet a minimal standard:  
 
 - It should work
 - It should have a README.md that explains how to use it
 - It should have a license
 
-There are lots of repos on GitHub that are called "indesign scripts" or "after effects snippets". But without a good table of content they are useless. If you encounter something like that and still think it is worth to be forked to the Org you should change the name of the repo. It needs a unique name. For example if the user "teddybear" has a repo called "indesign-snippets" it should be named "teddybear-indesign-scripts". So the naming convention should be:  
-
-    [GITHUB USER NAME]-[APPLICATION]-[SCRIPTS]
-
 ## Awesome list  
 
-The [awesome list](https://github.com/ExtendScript/awesome) should be really about awesome projects. Not just to promote something that is just mediocre. You are the judge of that.  
+If you found a nice tool somebody wrote consider adding it to the [awesome list](https://github.com/ExtendScript/awesome) which is all about awesome projects. Not just to promote something that is just mediocre. You are the judge of that.
 
 ## Wiki  
 
